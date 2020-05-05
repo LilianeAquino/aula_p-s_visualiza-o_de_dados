@@ -1,5 +1,6 @@
 projeto_1/.ipynb_checkpoints/template-checkpoint.ipynb
 .vscode
+.ENV
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -25,3 +26,6 @@ ipython_config.py
 */.git/*
 
 /data
+
+*ENV
+*/ENV/*
